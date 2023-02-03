@@ -1,4 +1,4 @@
-# Python coding task
+<!-- # Python coding task
 
 Your task is to implement [gradient descent](https://en.wikipedia.org/wiki/Gradient_descent) algorithm. For your convinence there are class structures inside the `src` directory. Feel free to change anything if find it useful or use any external libraries if needed.
 
@@ -10,7 +10,7 @@ There are many approaches to solve the problem. Some of them are below.
 
 - You can use a function as a python function with pre-defined derivative
 - You can use some python libraries to compute the derivative either in symbolic form or numerically, such as [sympy](https://www.sympy.org/en/index.html) or [scipy](https://scipy.org/)
-
+ -->
 
 ## Modifications and overall code structure
 In dto.py I have added the "tails" list to keep track of the points obtained from the optimization.
