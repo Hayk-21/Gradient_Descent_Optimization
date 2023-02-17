@@ -24,3 +24,6 @@ Launch Notebook for a visual preview plot.py from the ./notebooks directory
 
 To test, go to the ./test directory and run the command:
 - python -m unittest .\gradient_descent_test.py
+
+<img width="199" alt="image" src="https://user-images.githubusercontent.com/76138383/219812930-bc7f16b0-3db3-493b-8494-2ddc3cef3d7e.png">
+<img width="234" alt="image" src="https://user-images.githubusercontent.com/76138383/219812958-6d173b44-cb94-484c-827e-f075da0c7ac9.png">
